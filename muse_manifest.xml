@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542321677359">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542322024694">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-mal.css" crc="509747984" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:gallery:skate"/>
     <file name="nomq_preview_master_a-mal.css" crc="108875547" ref="stauper:index:sit:about:pelspels:race-lamp:blupp:gallery:approach:skate"/>
-    <file name="stauper.css" crc="319633843" ref="stauper"/>
+    <file name="stauper.css" crc="4158658363" ref="stauper"/>
     <file name="index.css" crc="469999843" ref="index"/>
     <file name="nomq_index.css" crc="4149598945" ref="index"/>
     <file name="sit.css" crc="516100738" ref="sit"/>
@@ -11,7 +11,7 @@
     <file name="pelspels.css" crc="4009228425" ref="pelspels"/>
     <file name="race-lamp.css" crc="348679559" ref="race-lamp"/>
     <file name="approach.css" crc="510916699" ref="approach"/>
-    <file name="blupp.css" crc="4042524148" ref="blupp"/>
+    <file name="blupp.css" crc="4263883657" ref="blupp"/>
     <file name="gallery.css" crc="4272664496" ref="gallery"/>
     <file name="nomq_gallery.css" crc="178665957" ref="gallery"/>
     <file name="nomq_stauper.css" crc="449348466" ref="stauper"/>
@@ -374,7 +374,7 @@
     <file name="20161129-guttelars-20538_2x.jpg" crc="160134049" seo="true" ref="blupp">
       <caption webpage="blupp" alt=""/>
     </file>
-    <file name="blupp beige 3-crop-u3680.jpg" crc="508230278" seo="true" ref="blupp">
+    <file name="blupp beige 3-crop-u3680.jpg" crc="155938542" seo="true" ref="blupp">
       <caption webpage="blupp" alt=""/>
     </file>
     <file name="blupp beige 3-crop-u3680_2x.jpg" crc="182149917" seo="true" ref="blupp">
@@ -1000,8 +1000,8 @@
   <file name="index.html" crc="3883733095" seo="true" mt="1542320528857" redirect="true"/>
   <file name="gallery.html" crc="4273946640" seo="true" mt="1542320528857" redirect="true"/>
   <file name="pelspels.html" crc="235536478" seo="true" mt="1542321486011" redirect="true"/>
-  <file name="blupp.html" crc="137136486" seo="true" mt="1542321607521" redirect="true"/>
-  <file name="stauper.html" crc="480231930" seo="true" mt="1542321576769" redirect="true"/>
+  <file name="blupp.html" crc="26914791" seo="true" mt="1542321864560" redirect="true"/>
+  <file name="stauper.html" crc="3953972476" seo="true" mt="1542321894564" redirect="true"/>
   <file name="race-lamp.html" crc="3845665805" seo="true" mt="1542320528857" redirect="true"/>
   <file name="sit.html" crc="64498682" seo="true" mt="1542320528857" redirect="true"/>
   <file name="about.html" crc="76409566" seo="true" mt="1542320528857" redirect="true"/>
