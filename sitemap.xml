@@ -5,30 +5,6 @@
     <lastmod>2018-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/who%20am%20i.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/who%20am%20i_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway377x19.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway377x19_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/who%20am%20i317x33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/who%20am%20i317x33_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://jonascarlsen.com/skate.html</loc>
@@ -172,6 +148,12 @@
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway377x19.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway377x19_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/bild%202-crop-u11221.jpg</image:loc>

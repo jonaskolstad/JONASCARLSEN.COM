@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542308954898">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542311805933">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-mal.css" crc="108875547" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:skate:gallery"/>
     <file name="nomq_preview_master_a-mal.css" crc="3824530138" ref="stauper:index:sit:about:pelspels:race-lamp:blupp:skate:gallery:approach"/>
-    <file name="stauper.css" crc="3960055822" ref="stauper"/>
-    <file name="index.css" crc="3763421808" ref="index"/>
-    <file name="nomq_index.css" crc="3867125626" ref="index"/>
-    <file name="sit.css" crc="89122120" ref="sit"/>
-    <file name="about.css" crc="4044222938" ref="about"/>
-    <file name="pelspels.css" crc="4159382566" ref="pelspels"/>
-    <file name="race-lamp.css" crc="4231682066" ref="race-lamp"/>
-    <file name="approach.css" crc="3968503892" ref="approach"/>
-    <file name="blupp.css" crc="4154160307" ref="blupp"/>
-    <file name="skate.css" crc="3815258075" ref="skate"/>
-    <file name="gallery.css" crc="3983613200" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="3871655550" ref="gallery"/>
+    <file name="stauper.css" crc="4157616477" ref="stauper"/>
+    <file name="index.css" crc="4146354474" ref="index"/>
+    <file name="nomq_index.css" crc="4044128318" ref="index"/>
+    <file name="sit.css" crc="516100738" ref="sit"/>
+    <file name="about.css" crc="3861203329" ref="about"/>
+    <file name="pelspels.css" crc="4265778261" ref="pelspels"/>
+    <file name="race-lamp.css" crc="4163821319" ref="race-lamp"/>
+    <file name="approach.css" crc="510916699" ref="approach"/>
+    <file name="blupp.css" crc="136426977" ref="blupp"/>
+    <file name="skate.css" crc="28240887" ref="skate"/>
+    <file name="gallery.css" crc="528497356" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="4070420292" ref="gallery"/>
   </folder>
   <folder name="assets">
     <file name="form.muse" crc="462649102" seo="true" mt="1503967580000"/>
@@ -36,19 +36,13 @@
     <file name="form-u8602.php" crc="529595013" ref="approach"/>
   </folder>
   <folder name="images">
-    <file name="jonas carlsen, oslo, norway.png" crc="465480005" seo="true" ref="index:gallery">
+    <file name="jonas carlsen, oslo, norway.png" crc="465480005" seo="true" ref="gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="jonas carlsen, oslo, norway_2x.png" crc="3813364711" seo="true" ref="index:gallery">
+    <file name="jonas carlsen, oslo, norway_2x.png" crc="3813364711" seo="true" ref="gallery">
       <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="who am i.png" crc="4075877804" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="who am i_2x.png" crc="313489691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="stauper daybed photoshop button 2400x3600-2018.06.09-stauper_0897.jpg" crc="339795421" ref="index">
       <caption webpage="index" alt=""/>
@@ -122,17 +116,13 @@
     <file name="skate decks photoshop button 3000x2000_2x.jpg" crc="4055733740" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jonas carlsen, oslo, norway377x19.png" crc="3891167304" seo="true" ref="index">
+    <file name="jonas carlsen, oslo, norway377x19.png" crc="3891167304" seo="true" ref="gallery">
       <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="jonas carlsen, oslo, norway377x19_2x.png" crc="465480005" seo="true" ref="index">
+    <file name="jonas carlsen, oslo, norway377x19_2x.png" crc="465480005" seo="true" ref="gallery">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="who am i317x33.png" crc="3872125264" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="who am i317x33_2x.png" crc="4075877804" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:gallery"/>
     <file name="bild 2-crop-u11221.jpg" crc="4279196" seo="true" ref="gallery">
@@ -621,15 +611,21 @@
     </file>
     <file name="u8381-4.png" crc="133917086" ref="approach"/>
     <file name="u8381-4_2x.png" crc="440487347" ref="approach"/>
+    <file name="u13258-4.png" crc="197985155" ref="index"/>
+    <file name="u13258-4_2x.png" crc="526871595" ref="index"/>
+    <file name="u13321-8.png" crc="4259416584" ref="index"/>
+    <file name="u13321-8_2x.png" crc="4029866964" ref="index"/>
+    <file name="u13367-8.png" crc="493658377" ref="index"/>
+    <file name="u13367-8_2x.png" crc="103202435" ref="index"/>
   </folder>
-  <file name="index.html" crc="87674753" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="gallery.html" crc="4004622856" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="pelspels.html" crc="3811581380" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="blupp.html" crc="3814450950" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="skate.html" crc="3806170418" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="stauper.html" crc="57147572" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="race-lamp.html" crc="4073155198" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="sit.html" crc="4245749681" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="about.html" crc="418159971" seo="true" mt="1542308867322" redirect="true"/>
-  <file name="approach.html" crc="210735684" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="index.html" crc="505949458" seo="true" mt="1542311638328" redirect="true"/>
+  <file name="gallery.html" crc="247610748" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="pelspels.html" crc="304209877" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="blupp.html" crc="175268123" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="skate.html" crc="154086328" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="stauper.html" crc="176005474" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="race-lamp.html" crc="3898018976" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="sit.html" crc="4062948999" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="about.html" crc="4209476778" seo="true" mt="1542311355563" redirect="true"/>
+  <file name="approach.html" crc="472978371" seo="true" mt="1542311355563" redirect="true"/>
 </manifest>
