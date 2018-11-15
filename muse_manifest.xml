@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542308514121">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542308954898">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-mal.css" crc="108875547" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:skate:gallery"/>
@@ -7,12 +7,12 @@
     <file name="index.css" crc="3763421808" ref="index"/>
     <file name="nomq_index.css" crc="3867125626" ref="index"/>
     <file name="sit.css" crc="89122120" ref="sit"/>
-    <file name="about.css" crc="3994716943" ref="about"/>
-    <file name="pelspels.css" crc="3960473737" ref="pelspels"/>
-    <file name="race-lamp.css" crc="334839228" ref="race-lamp"/>
+    <file name="about.css" crc="4044222938" ref="about"/>
+    <file name="pelspels.css" crc="4159382566" ref="pelspels"/>
+    <file name="race-lamp.css" crc="4231682066" ref="race-lamp"/>
     <file name="approach.css" crc="3968503892" ref="approach"/>
     <file name="blupp.css" crc="4154160307" ref="blupp"/>
-    <file name="skate.css" crc="4224484495" ref="skate"/>
+    <file name="skate.css" crc="3815258075" ref="skate"/>
     <file name="gallery.css" crc="3983613200" ref="gallery"/>
     <file name="nomq_gallery.css" crc="3871655550" ref="gallery"/>
   </folder>
@@ -622,14 +622,14 @@
     <file name="u8381-4.png" crc="133917086" ref="approach"/>
     <file name="u8381-4_2x.png" crc="440487347" ref="approach"/>
   </folder>
-  <file name="index.html" crc="3780609759" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="gallery.html" crc="4126018675" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="pelspels.html" crc="4214354225" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="blupp.html" crc="242591735" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="skate.html" crc="3977805063" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="stauper.html" crc="4090767982" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="race-lamp.html" crc="392412027" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="sit.html" crc="3768556369" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="about.html" crc="4153763026" seo="true" mt="1542308474092" redirect="true"/>
-  <file name="approach.html" crc="26729702" seo="true" mt="1542308474092" redirect="true"/>
+  <file name="index.html" crc="87674753" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="gallery.html" crc="4004622856" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="pelspels.html" crc="3811581380" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="blupp.html" crc="3814450950" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="skate.html" crc="3806170418" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="stauper.html" crc="57147572" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="race-lamp.html" crc="4073155198" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="sit.html" crc="4245749681" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="about.html" crc="418159971" seo="true" mt="1542308867322" redirect="true"/>
+  <file name="approach.html" crc="210735684" seo="true" mt="1542308867322" redirect="true"/>
 </manifest>
