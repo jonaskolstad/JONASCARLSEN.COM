@@ -7,120 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jonascarlsen.com/blupp.html</loc>
-    <lastmod>2018-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20text.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20text_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202350x525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202350x525_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557350x526.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557350x526_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538350x526.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538350x526_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201350x526.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201350x526_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204359x525.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204359x525_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203350x526.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203350x526_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201350x526.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201350x526_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u36802.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u36803.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://jonascarlsen.com/stauper.html</loc>
     <lastmod>2018-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -250,6 +136,48 @@
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/dsc01725-2350x526_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jonascarlsen.com/race-lamp.html</loc>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/race%20text.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/race%20text_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x5262.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u90142.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u90143.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x3.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -388,6 +316,36 @@
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/village%206-crop-u12449_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%201350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%201350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%204350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%204350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%206350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%206350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%209350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/bild%209350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/china%202350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/china%202350x526_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -619,21 +577,117 @@
     </image:image>
   </url>
   <url>
-    <loc>http://jonascarlsen.com/sit.html</loc>
+    <loc>http://jonascarlsen.com/blupp.html</loc>
     <lastmod>2018-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/sit%20text.png</image:loc>
+      <image:loc>http://jonascarlsen.com/images/blupp%20text.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/sit%20text_2x.png</image:loc>
+      <image:loc>http://jonascarlsen.com/images/blupp%20text_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/museum%20legs%203.jpg</image:loc>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/museum%20legs%203_2x.jpg</image:loc>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202350x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%202350x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20557350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20161129-guttelars-20538350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%201350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204359x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%204359x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%203350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20sort%201350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u36802.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u36803.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x3.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -655,52 +709,124 @@
     </image:image>
   </url>
   <url>
-    <loc>http://jonascarlsen.com/race-lamp.html</loc>
-    <lastmod>2018-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/race%20text.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/race%20text_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x5262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u90142.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u90143.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x3.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://jonascarlsen.com/approach.html</loc>
     <lastmod>2018-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jonascarlsen.com/sit.html</loc>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/sit%20text.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/sit%20text_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/museum%20legs%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/museum%20legs%203_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jonascarlsen.com/skate.html</loc>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20text.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20text_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3947.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3947_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3946.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3946_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%202350x580.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%202350x580_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%208350x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%208350x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%2013351x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%2013351x525_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%201350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%201350x526_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u39472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3947_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u39462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3946_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%202_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%208_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%2013.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%2013_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u39473.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3947_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u39463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3946_2x3.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://jonascarlsen.com/assets/burger-menu-done.png</loc>
