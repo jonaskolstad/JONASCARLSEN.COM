@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542323451603">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1542323582688">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-mal.css" crc="4294221135" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:gallery:skate"/>
+    <file name="master_a-mal.css" crc="509747984" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:gallery:skate"/>
     <file name="nomq_preview_master_a-mal.css" crc="108875547" ref="stauper:index:sit:about:pelspels:race-lamp:blupp:gallery:approach:skate"/>
-    <file name="stauper.css" crc="3856482572" ref="stauper"/>
+    <file name="stauper.css" crc="330191221" ref="stauper"/>
     <file name="index.css" crc="4259935282" ref="index"/>
     <file name="nomq_index.css" crc="4149598945" ref="index"/>
     <file name="sit.css" crc="516100738" ref="sit"/>
@@ -1011,7 +1011,7 @@
   <file name="gallery.html" crc="4273946640" seo="true" mt="1542320528857" redirect="true"/>
   <file name="pelspels.html" crc="439475427" seo="true" mt="1542323370254" redirect="true"/>
   <file name="blupp.html" crc="3929158947" seo="true" mt="1542323426286" redirect="true"/>
-  <file name="stauper.html" crc="4131905355" seo="true" mt="1542323397157" redirect="true"/>
+  <file name="stauper.html" crc="474143028" seo="true" mt="1542323553893" redirect="true"/>
   <file name="race-lamp.html" crc="3845665805" seo="true" mt="1542320528857" redirect="true"/>
   <file name="sit.html" crc="64498682" seo="true" mt="1542320528857" redirect="true"/>
   <file name="about.html" crc="76409566" seo="true" mt="1542320528857" redirect="true"/>
