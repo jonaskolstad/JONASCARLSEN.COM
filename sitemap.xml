@@ -173,24 +173,12 @@
     <image:image>
       <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x2.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u90143.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x3.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://jonascarlsen.com/gallery.html</loc>
-    <lastmod>2018-11-15</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/jonas%20carlsen,%20oslo,%20norway_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/bild%202-crop-u11221.jpg</image:loc>
     </image:image>
@@ -678,12 +666,6 @@
       <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u36803.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/blupp%20beige%203-crop-u3680_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jonascarlsen.com/images/blupp%20sort%204-crop-u3685.jpg</image:loc>
     </image:image>
     <image:image>
@@ -692,7 +674,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/about.html</loc>
-    <lastmod>2018-11-15</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -710,13 +692,13 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/approach.html</loc>
-    <lastmod>2018-11-15</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jonascarlsen.com/sit.html</loc>
-    <lastmod>2018-11-15</lastmod>
+    <lastmod>2018-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -802,18 +784,6 @@
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/skate%20decks%201_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u39473.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3947_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u39463.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/skate%20decks%209-crop-u3946_2x3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/skate%20decks%202-crop-u3944.jpg</image:loc>
