@@ -144,16 +144,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://jonascarlsen.com/images/race%20text.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/race%20text_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014.png</image:loc>
@@ -162,16 +162,16 @@
       <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x5262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u90142.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -712,6 +712,12 @@
     </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/museum%20legs%203_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/museum%20legs%203358x525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/museum%20legs%203358x525_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
