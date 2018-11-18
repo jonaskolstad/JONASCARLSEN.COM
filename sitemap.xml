@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jonascarlsen.com/index.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jonascarlsen.com/stauper.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -140,15 +140,9 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/race-lamp.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy_2x.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://jonascarlsen.com/images/race%20text.png</image:loc>
     </image:image>
@@ -168,15 +162,21 @@
       <image:loc>http://jonascarlsen.com/images/lampeskjerm%20pels%20pels-crop-u9014_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526.jpg</image:loc>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x5262.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526_2x.jpg</image:loc>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy350x526_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/20180128-pelspels_2-328%20copy_2x2.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://jonascarlsen.com/gallery.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/pelspels.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -566,7 +566,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/blupp.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/about.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -689,16 +689,19 @@
     <image:image>
       <image:loc>http://jonascarlsen.com/images/jonas%20text_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/profilbilde-kopi350x526.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://jonascarlsen.com/approach.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jonascarlsen.com/sit.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -722,7 +725,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/skate.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
