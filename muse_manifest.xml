@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1544175332421">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1544175510742">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-mal.css" crc="356825110" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:gallery:skate"/>
+    <file name="master_a-mal.css" crc="4267040238" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:gallery:skate"/>
     <file name="nomq_preview_master_a-mal.css" crc="108875547" ref="stauper:index:sit:about:pelspels:race-lamp:blupp:gallery:approach:skate"/>
     <file name="stauper.css" crc="469112810" ref="stauper"/>
     <file name="index.css" crc="272546606" ref="index"/>
@@ -12,7 +12,7 @@
     <file name="race-lamp.css" crc="3843199797" ref="race-lamp"/>
     <file name="approach.css" crc="4263561179" ref="approach"/>
     <file name="blupp.css" crc="3980367197" ref="blupp"/>
-    <file name="gallery.css" crc="4220759823" ref="gallery"/>
+    <file name="gallery.css" crc="3810217789" ref="gallery"/>
     <file name="nomq_gallery.css" crc="3863014014" ref="gallery"/>
     <file name="nomq_stauper.css" crc="4042725692" ref="stauper"/>
     <file name="nomq_pelspels.css" crc="344736534" ref="pelspels"/>
@@ -116,10 +116,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:gallery:pelspels:blupp:stauper:race-lamp:skate:sit:about"/>
-    <file name="bild 2-crop-u11221.jpg" crc="439418603" seo="true" ref="gallery">
+    <file name="bild 2-crop-u11221.jpg" crc="116208039" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 2-crop-u11221_2x.jpg" crc="144246112" seo="true" ref="gallery">
+    <file name="bild 2-crop-u11221_2x.jpg" crc="51198611" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="bild 1.jpg" crc="314486994" seo="true" ref="gallery">
@@ -134,10 +134,10 @@
     <file name="mm-crop-u11391_2x.jpg" crc="100457642" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 10-crop-u12461.jpg" crc="3841684152" seo="true" ref="gallery">
+    <file name="bild 10-crop-u12461.jpg" crc="441975501" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 10-crop-u12461_2x.jpg" crc="461633177" seo="true" ref="gallery">
+    <file name="bild 10-crop-u12461_2x.jpg" crc="207105744" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="air cond 8-crop-u11157.jpg" crc="3868460608" seo="true" ref="gallery">
@@ -152,10 +152,10 @@
     <file name="china 3 2-crop-u11473_2x.jpg" crc="3851847015" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 3-crop-u11502.jpg" crc="3910385459" seo="true" ref="gallery">
+    <file name="bild 3-crop-u11502.jpg" crc="3938524205" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 3-crop-u11502_2x.jpg" crc="3965481246" seo="true" ref="gallery">
+    <file name="bild 3-crop-u11502_2x.jpg" crc="3820996997" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="bild 4.jpg" crc="3808124341" seo="true" ref="gallery">
@@ -164,10 +164,10 @@
     <file name="bild 4_2x.jpg" crc="175728569" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 8-crop-u11549.jpg" crc="4207313295" seo="true" ref="gallery">
+    <file name="bild 8-crop-u11549.jpg" crc="4079517911" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 8-crop-u11549_2x.jpg" crc="479009848" seo="true" ref="gallery">
+    <file name="bild 8-crop-u11549_2x.jpg" crc="3855117062" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="bild 6.jpg" crc="3818700229" seo="true" ref="gallery">
@@ -194,10 +194,10 @@
     <file name="china 2_2x.jpg" crc="221426914" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 2-crop-u112212.jpg" crc="4155639261" seo="true" ref="gallery">
+    <file name="bild 2-crop-u112212.jpg" crc="3939274771" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 2-crop-u11221_2x2.jpg" crc="3790762727" seo="true" ref="gallery">
+    <file name="bild 2-crop-u11221_2x2.jpg" crc="344662152" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="china 3 2-crop-u114732.jpg" crc="7453381" seo="true" ref="gallery">
@@ -206,16 +206,16 @@
     <file name="china 3 2-crop-u11473_2x2.jpg" crc="3784448222" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 3-crop-u115022.jpg" crc="66249790" seo="true" ref="gallery">
+    <file name="bild 3-crop-u115022.jpg" crc="4164325470" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 3-crop-u11502_2x2.jpg" crc="4130236495" seo="true" ref="gallery">
+    <file name="bild 3-crop-u11502_2x2.jpg" crc="256056273" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 10-crop-u124612.jpg" crc="230614510" seo="true" ref="gallery">
+    <file name="bild 10-crop-u124612.jpg" crc="174265203" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 10-crop-u12461_2x2.jpg" crc="39244059" seo="true" ref="gallery">
+    <file name="bild 10-crop-u12461_2x2.jpg" crc="4064632979" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="air cond 8-crop-u111572.jpg" crc="3874040049" seo="true" ref="gallery">
@@ -230,10 +230,10 @@
     <file name="mm-crop-u11391_2x2.jpg" crc="420748641" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 8-crop-u115492.jpg" crc="435164732" seo="true" ref="gallery">
+    <file name="bild 8-crop-u115492.jpg" crc="4056967466" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="bild 8-crop-u11549_2x2.jpg" crc="4266520613" seo="true" ref="gallery">
+    <file name="bild 8-crop-u11549_2x2.jpg" crc="4017419758" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
     <file name="village 6-crop-u124492.jpg" crc="22229744" seo="true" ref="gallery">
@@ -942,7 +942,7 @@
     <file name="u7984-4_2x2.png" crc="3773756031" ref="about"/>
   </folder>
   <file name="index.html" crc="3808362943" seo="true" mt="1542558488683" redirect="true"/>
-  <file name="gallery.html" crc="4346307" seo="true" mt="1542559115591" redirect="true"/>
+  <file name="gallery.html" crc="4088852650" seo="true" mt="1544175485651" redirect="true"/>
   <file name="pelspels.html" crc="365353972" seo="true" mt="1542558509701" redirect="true"/>
   <file name="blupp.html" crc="3850675434" seo="true" mt="1542558549766" redirect="true"/>
   <file name="stauper.html" crc="470208454" seo="true" mt="1542558534541" redirect="true"/>
