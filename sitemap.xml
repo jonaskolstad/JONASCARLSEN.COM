@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jonascarlsen.com/index.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jonascarlsen.com/stauper.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -140,7 +140,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/race-lamp.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/gallery.html</loc>
-    <lastmod>2018-12-07</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/pelspels.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -566,7 +566,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/blupp.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/about.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -692,16 +692,19 @@
     <image:image>
       <image:loc>http://jonascarlsen.com/images/profilbilde-kopi350x526.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://jonascarlsen.com/images/profilbilde-kopi350x526_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://jonascarlsen.com/approach.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://jonascarlsen.com/sit.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -725,7 +728,7 @@
   </url>
   <url>
     <loc>http://jonascarlsen.com/skate.html</loc>
-    <lastmod>2018-11-18</lastmod>
+    <lastmod>2018-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
