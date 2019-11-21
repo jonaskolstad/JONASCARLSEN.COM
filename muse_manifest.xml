@@ -1,956 +1,349 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jonascarlsen.com" resolutions="1x,2x" timestamp="1545866345304">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1574376858148">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-mal.css" crc="4158655303" ref="stauper:index:sit:about:pelspels:race-lamp:approach:blupp:gallery:skate"/>
-    <file name="nomq_preview_master_a-mal.css" crc="108875547" ref="stauper:index:sit:about:pelspels:race-lamp:blupp:gallery:approach:skate"/>
-    <file name="stauper.css" crc="4166539311" ref="stauper"/>
-    <file name="index.css" crc="414788767" ref="index"/>
-    <file name="nomq_index.css" crc="4142291634" ref="index"/>
-    <file name="sit.css" crc="134028302" ref="sit"/>
-    <file name="about.css" crc="174731887" ref="about"/>
-    <file name="pelspels.css" crc="37012014" ref="pelspels"/>
-    <file name="race-lamp.css" crc="4189623796" ref="race-lamp"/>
-    <file name="approach.css" crc="493334450" ref="approach"/>
-    <file name="blupp.css" crc="3796475177" ref="blupp"/>
-    <file name="gallery.css" crc="3992114942" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="3863014014" ref="gallery"/>
-    <file name="nomq_stauper.css" crc="4042725692" ref="stauper"/>
-    <file name="nomq_pelspels.css" crc="344736534" ref="pelspels"/>
-    <file name="nomq_race-lamp.css" crc="4238253546" ref="race-lamp"/>
-    <file name="nomq_blupp.css" crc="68439349" ref="blupp"/>
-    <file name="skate.css" crc="240073784" ref="skate"/>
-    <file name="nomq_skate.css" crc="450948282" ref="skate"/>
-    <file name="nomq_sit.css" crc="200786563" ref="sit"/>
-    <file name="nomq_about.css" crc="49439976" ref="about"/>
+    <file name="index.css" crc="3859272064" ref="index"/>
+    <file name="work1.css" crc="5837234" ref="work1"/>
+    <file name="personal.css" crc="4079305491" ref="personal"/>
+    <file name="work2.css" crc="53944605" ref="work2"/>
   </folder>
   <folder name="assets">
-    <file name="form.muse" crc="462649102" seo="true" mt="1503967580000"/>
-    <file name="burger-menu-done.png" crc="321602548" seo="true" mt="1522370845000"/>
+    <file name="2018.01.28-pelspels_2-429-copy.tif" crc="4264111338" seo="true" mt="1520202607000"/>
+    <file name="bb-36.tif" crc="120488023" seo="true" mt="1559225104000"/>
+    <file name="bb-34.tif" crc="3834744768" seo="true" mt="1559154866000"/>
+    <file name="r1-00248-0021.tif" crc="4167401904" seo="true" mt="1557487752000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:pelspels:blupp:stauper:race-lamp:sit:about:approach:skate"/>
-    <file name="museutils.js" crc="3803043152" ref="index:gallery:pelspels:blupp:stauper:race-lamp:sit:about:approach:skate"/>
-    <file name="whatinput.js" crc="86476730" ref="index:gallery:pelspels:blupp:stauper:race-lamp:sit:about:approach:skate"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:gallery:pelspels:blupp:stauper:race-lamp:sit:about:approach:skate"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:gallery:pelspels:blupp:stauper:race-lamp:sit:about:approach:skate"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:gallery:pelspels:blupp:stauper:race-lamp:skate:sit:about"/>
-    <file name="require.js" crc="4157109226" ref="index:gallery:pelspels:blupp:stauper:race-lamp:sit:about:approach:skate"/>
-    <file name="webpro.js" crc="242022427" ref="approach"/>
-    <file name="form_check.php" crc="147359589" ref="approach"/>
-    <file name="form_throttle.php" crc="93986428" ref="approach"/>
-    <file name="form_process.php" crc="3851993751" ref="approach"/>
-    <file name="form-u8602.php" crc="529595013" ref="approach"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal:work1:work2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:personal:work1:work2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:personal:work1:work2"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:personal:work1:work2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:personal:work1:work2"/>
+    <file name="require.js" crc="4157109226" ref="index:personal:work1:work2"/>
   </folder>
   <folder name="images">
-    <file name="stauper daybed photoshop button 2400x3600-2018.06.09-stauper_0897.jpg" crc="3919494856" ref="index">
+    <file name="20180128-pelspels_2-429 copy.jpg" crc="333779127" seo="true" ref="work1">
+      <caption webpage="pelspels" alt=""/>
+      <caption webpage="work1" alt=""/>
+    </file>
+    <file name="20180128-pelspels_2-429 copy_2x.jpg" crc="3942334046" seo="true" ref="work1">
+      <caption webpage="pelspels" alt=""/>
+      <caption webpage="work1" alt=""/>
+    </file>
+    <file name="20180128-pelspels_2-264 copy.jpg" crc="4269164612" seo="true" ref="work1">
+      <caption webpage="pelspels" alt=""/>
+      <caption webpage="work1" alt=""/>
+    </file>
+    <file name="20180128-pelspels_2-264 copy_2x.jpg" crc="4224678840" seo="true" ref="work1">
+      <caption webpage="pelspels" alt=""/>
+      <caption webpage="work1" alt=""/>
+    </file>
+    <file name="20180609-stauper_0897.jpg" crc="284966140" seo="true" ref="work2">
+      <caption webpage="stauper" alt=""/>
+      <caption webpage="work2" alt=""/>
+    </file>
+    <file name="20180609-stauper_0897_2x.jpg" crc="4162839377" seo="true" ref="work2">
+      <caption webpage="stauper" alt=""/>
+      <caption webpage="work2" alt=""/>
+    </file>
+    <file name="20180609-stauper_1023.jpg" crc="3956375433" seo="true" ref="work2">
+      <caption webpage="stauper" alt=""/>
+      <caption webpage="work2" alt=""/>
+    </file>
+    <file name="20180609-stauper_1023_2x.jpg" crc="164964511" seo="true" ref="work2">
+      <caption webpage="stauper" alt=""/>
+      <caption webpage="work2" alt=""/>
+    </file>
+    <file name="r1-01311-035a.jpg" crc="3990973100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stauper daybed photoshop button 2400x3600-2018.06.09-stauper_0897_2x.jpg" crc="519279819" ref="index">
+    <file name="r1-01311-035a_2x.jpg" crc="4084874377" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stauper daybed photoshop button 2400x3600.jpg" crc="4149714038" ref="index">
+    <file name="r1-05833-034a.jpg" crc="3986557338" seo="true" ref="index:personal">
+      <caption webpage="index" alt=""/>
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="r1-05833-034a_2x.jpg" crc="3770243354" seo="true" ref="index:personal">
+      <caption webpage="index" alt=""/>
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="r1-05833-024a-crop-u367.jpg" crc="4080837643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stauper daybed photoshop button 2400x3600_2x.jpg" crc="4090802341" ref="index">
+    <file name="r1-05833-024a-crop-u367_2x.jpg" crc="3784489341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pels pels barbershop photoshop button 2400x1600-lag 3.jpg" crc="4194686169" ref="index">
+    <file name="r1-09181-005a.jpg" crc="520528559" seo="true" ref="index:personal">
       <caption webpage="index" alt=""/>
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="pels pels barbershop photoshop button 2400x1600-lag 3_2x.jpg" crc="3890441696" ref="index">
+    <file name="r1-09181-005a_2x.jpg" crc="4136755945" seo="true" ref="index:personal">
       <caption webpage="index" alt=""/>
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="pels pels barbershop photoshop button 2400x1600.jpg" crc="4201760920" ref="index">
+    <file name="r1-09180-0033.jpg" crc="3896981579" seo="true" ref="index:personal">
       <caption webpage="index" alt=""/>
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="pels pels barbershop photoshop button 2400x1600_2x.jpg" crc="502929041" ref="index">
+    <file name="r1-09180-0033_2x.jpg" crc="75710224" seo="true" ref="index:personal">
       <caption webpage="index" alt=""/>
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="race lamp photoshop button 2400x1600-lag 1.jpg" crc="4048173573" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-05832-0017-crop-u464.jpg" crc="3784232977" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="race lamp photoshop button 2400x1600-lag 1_2x.jpg" crc="4128537288" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-05832-0017-crop-u464_2x.jpg" crc="385587958" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="race lamp photoshop button 2400x1600.jpg" crc="4195037245" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-05833-024a-crop-u774.jpg" crc="4080837643" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="race lamp photoshop button 2400x1600_2x.jpg" crc="3979188816" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-05833-024a-crop-u774_2x.jpg" crc="3784489341" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="blupp photoshop button 2400x3600-lag 1.jpg" crc="4229171639" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="lovers in seilduksgata.jpg" crc="281083972" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="blupp photoshop button 2400x3600-lag 1_2x.jpg" crc="391852501" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="lovers in seilduksgata_2x.jpg" crc="22115663" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="blupp photoshop button 2400x3600.jpg" crc="290630428" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03109-0016.jpg" crc="3829266330" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="blupp photoshop button 2400x3600_2x.jpg" crc="4252844378" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03109-0016_2x.jpg" crc="3814080157" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="sit 2015 photoshop button 4800x3200-lag 1.png" crc="4122418181" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03109-0025.jpg" crc="325250606" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="sit 2015 photoshop button 4800x3200-lag 1_2x.png" crc="470681098" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03109-0025_2x.jpg" crc="235291133" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="sit 2015 photoshop button 4800x3200.jpg" crc="474160865" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03110-0002.jpg" crc="518740262" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="sit 2015 photoshop button 4800x3200_2x.jpg" crc="236020478" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03110-0002_2x.jpg" crc="3816553545" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="skate decks photoshop button 3000x2000-lag 1.jpg" crc="508049847" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03110-0019.jpg" crc="4035116156" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="skate decks photoshop button 3000x2000-lag 1_2x.jpg" crc="300169964" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03110-0019_2x.jpg" crc="506744306" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="skate decks photoshop button 3000x2000.jpg" crc="4043824947" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03109-0023.jpg" crc="4072701263" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="skate decks photoshop button 3000x2000_2x.jpg" crc="3798628483" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="r1-03109-0023_2x.jpg" crc="4250461780" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:gallery:pelspels:blupp:stauper:race-lamp:skate:sit:about"/>
-    <file name="bild 2-crop-u11221.jpg" crc="116208039" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03110-0035.jpg" crc="4177511254" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 2-crop-u11221_2x.jpg" crc="51198611" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03110-0035_2x.jpg" crc="3899939320" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 1.jpg" crc="314486994" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03111-0008.jpg" crc="322306969" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 1_2x.jpg" crc="4097053688" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03111-0008_2x.jpg" crc="3791941558" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="mm-crop-u11391.jpg" crc="4016549819" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03945-002a.jpg" crc="140584976" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="mm-crop-u11391_2x.jpg" crc="100457642" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03945-002a_2x.jpg" crc="3885448044" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 10-crop-u12461.jpg" crc="441975501" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03946-0010.jpg" crc="3952576985" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 10-crop-u12461_2x.jpg" crc="207105744" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03946-0010_2x.jpg" crc="3997570677" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="air cond 8-crop-u11157.jpg" crc="3845046030" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03946-0016.jpg" crc="3767714496" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="air cond 8-crop-u11157_2x.jpg" crc="4260509395" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03946-0016_2x.jpg" crc="257375450" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="china 3 2-crop-u11473.jpg" crc="4082343289" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05832-0019.jpg" crc="4059671583" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="china 3 2-crop-u11473_2x.jpg" crc="3851847015" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05832-0019_2x.jpg" crc="3857824259" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 3-crop-u11502.jpg" crc="107136598" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05832-0025.jpg" crc="87772217" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 3-crop-u11502_2x.jpg" crc="3820996997" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05832-0025_2x.jpg" crc="4203683909" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 4.jpg" crc="3808124341" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="img_3996.jpg" crc="435137243" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 4_2x.jpg" crc="175728569" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="img_3996_2x.jpg" crc="3830369419" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 8-crop-u11549.jpg" crc="4079517911" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05833-010a.jpg" crc="4064380703" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 8-crop-u11549_2x.jpg" crc="3855117062" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05833-010a_2x.jpg" crc="186628377" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 6.jpg" crc="3818700229" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05833-030a.jpg" crc="230598188" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 6_2x.jpg" crc="382581353" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05833-030a_2x.jpg" crc="76459419" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 9.jpg" crc="260803261" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05833-006a.jpg" crc="4058323858" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 9_2x.jpg" crc="71913913" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-05833-006a_2x.jpg" crc="197966676" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="village 6-crop-u12449.jpg" crc="3931305036" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-06662-001312-08-2019-02-05-15-50715841-0200.jpg" crc="255321698" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="village 6-crop-u12449_2x.jpg" crc="428498260" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-06662-001312-08-2019-02-05-15-50715841-0200_2x.jpg" crc="3983917182" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="china 2.jpg" crc="365431931" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-07790-0019.jpg" crc="230817423" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="china 2_2x.jpg" crc="221426914" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-07790-0019_2x.jpg" crc="4023165215" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 2-crop-u112212.jpg" crc="3939274771" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-00650-015a.jpg" crc="417837737" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 2-crop-u11221_2x2.jpg" crc="344662152" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-00650-015a_2x.jpg" crc="3826946312" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="china 3 2-crop-u114732.jpg" crc="7453381" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03439-024a02-07-2019-12-06-24-43584371-0200.jpg" crc="258791949" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="china 3 2-crop-u11473_2x2.jpg" crc="3784448222" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03439-024a02-07-2019-12-06-24-43584371-0200_2x.jpg" crc="4116336026" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 3-crop-u115022.jpg" crc="4164325470" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-00862-0023.jpg" crc="54959724" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 3-crop-u11502_2x2.jpg" crc="256056273" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-00862-0023_2x.jpg" crc="146096089" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 10-crop-u124612.jpg" crc="174265203" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-00862-0031.jpg" crc="3840267947" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="bild 10-crop-u12461_2x2.jpg" crc="4064632979" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-00862-0031_2x.jpg" crc="4095098295" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="air cond 8-crop-u111572.jpg" crc="3874040049" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03439-014a02-07-2019-12-06-14-43574332-0200.jpg" crc="168321888" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="air cond 8-crop-u11157_2x2.jpg" crc="4134698773" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="r1-03439-014a02-07-2019-12-06-14-43574332-0200_2x.jpg" crc="3815241830" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
     </file>
-    <file name="mm-crop-u113912.jpg" crc="3787715683" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="20180128-pelspels_2-443 copy.jpg" crc="148574995" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="mm-crop-u11391_2x2.jpg" crc="420748641" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="20180128-pelspels_2-443 copy_2x.jpg" crc="404199757" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="bild 8-crop-u115492.jpg" crc="4056967466" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="20180128-pelspels_2-398 copy-crop-u529.jpg" crc="4172065725" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="bild 8-crop-u11549_2x2.jpg" crc="4017419758" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="20180128-pelspels_2-398 copy-crop-u529_2x.jpg" crc="4172388885" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="village 6-crop-u124492.jpg" crc="22229744" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="20180128-pelspels_-072 copy.jpg" crc="4249409180" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="village 6-crop-u12449_2x2.jpg" crc="4277772728" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+    <file name="20180128-pelspels_-072 copy_2x.jpg" crc="3860045673" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="u3469-4.png" crc="104477997" ref="pelspels"/>
-    <file name="u3469-4_2x.png" crc="251698404" ref="pelspels"/>
-    <file name="pelspels text.png" crc="4218751177" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-202 copy.jpg" crc="4120637567" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="pelspels text_2x.png" crc="3928456109" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-202 copy_2x.jpg" crc="4049873987" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-429 copy.jpg" crc="336562359" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-387 copy-crop-u609.jpg" crc="329550665" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-429 copy_2x.jpg" crc="3823981000" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-387 copy-crop-u609_2x.jpg" crc="200015356" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-387 copy.jpg" crc="309612698" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-328 copy-crop-u639.jpg" crc="143632888" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-387 copy_2x.jpg" crc="4287207541" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-328 copy-crop-u639_2x.jpg" crc="448379224" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-408 copy.jpg" crc="496925715" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-310 copy-crop-u659.jpg" crc="404599100" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-408 copy_2x.jpg" crc="496215577" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="20180128-pelspels_2-310 copy-crop-u659_2x.jpg" crc="340997416" seo="true" ref="work1">
+      <caption webpage="work1" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-354 copy.jpg" crc="456951930" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-01311-035a-crop-u762.jpg" crc="4234957723" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-354 copy_2x.jpg" crc="98948699" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-01311-035a-crop-u762_2x.jpg" crc="4148004337" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-208 copy.jpg" crc="4054586924" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-08980-024a.jpg" crc="3795458620" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-208 copy_2x.jpg" crc="4043678958" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-08980-024a_2x.jpg" crc="4244594025" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-328 copy.jpg" crc="378203799" seo="true" ref="pelspels">
-      <caption webpage="race-lamp" alt=""/>
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-02364-002a-3.jpg" crc="3875836973" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-328 copy_2x.jpg" crc="225472807" seo="true" ref="pelspels">
-      <caption webpage="race-lamp" alt=""/>
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-02364-002a-3_2x.jpg" crc="4053652555" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-310 copy.jpg" crc="4066668625" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-08782-022a.jpg" crc="4060326227" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-310 copy_2x.jpg" crc="83555083" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-08782-022a_2x.jpg" crc="3988503857" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_-129 copy.jpg" crc="239631230" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-09344-007a.jpg" crc="4010742492" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_-129 copy_2x.jpg" crc="3998100870" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-09344-007a_2x.jpg" crc="335604805" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-218 copy.jpg" crc="179202527" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-01311-034a.jpg" crc="29074142" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-218 copy_2x.jpg" crc="116203206" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-01311-034a_2x.jpg" crc="291504337" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-264 copy.jpg" crc="4231806157" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-00248-0021-crop-u1172.jpg" crc="427264540" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-264 copy_2x.jpg" crc="62262404" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-00248-0021-crop-u1172_2x.jpg" crc="313471396" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-195 copy.jpg" crc="385054796" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-00248-0015.jpg" crc="158969807" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-195 copy_2x.jpg" crc="4008681325" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="r1-00248-0015_2x.jpg" crc="509939941" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-303 copy.jpg" crc="483591326" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
+    <file name="mood space 6.jpg" crc="4213421034" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="20180128-pelspels_2-303 copy_2x.jpg" crc="4000237576" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-307 copy.jpg" crc="224559999" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-307 copy_2x.jpg" crc="4164115868" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-206 copy.jpg" crc="13510151" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-206 copy_2x.jpg" crc="120221376" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-398 copy.jpg" crc="381215604" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-398 copy_2x.jpg" crc="3852310308" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="u3684-4.png" crc="3782640013" ref="blupp"/>
-    <file name="u3684-4_2x.png" crc="516294780" ref="blupp"/>
-    <file name="blupp text.png" crc="530070678" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp text_2x.png" crc="466151926" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 2.jpg" crc="4140975665" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 2_2x.jpg" crc="4082920290" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20557.jpg" crc="184589444" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20557_2x.jpg" crc="326002937" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20538.jpg" crc="406001084" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20538_2x.jpg" crc="160134049" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 3-crop-u3680.jpg" crc="508230278" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 3-crop-u3680_2x.jpg" crc="182149917" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 1.jpg" crc="81362327" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 1_2x.jpg" crc="3958485293" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 3.jpg" crc="3836054514" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 3_2x.jpg" crc="3796741758" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 1.jpg" crc="263166468" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 1_2x.jpg" crc="3802858822" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="u6154-4.png" crc="4085387021" ref="stauper"/>
-    <file name="u6154-4_2x.png" crc="4040792150" ref="stauper"/>
-    <file name="stauper daybed text.png" crc="4171862241" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="stauper daybed text_2x.png" crc="5359386" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1120.jpg" crc="4037966124" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1120_2x.jpg" crc="3947495472" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="_dsc9384.jpg" crc="3984048022" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="_dsc9384_2x.jpg" crc="4112588607" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0382.jpg" crc="278218339" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0382_2x.jpg" crc="436609647" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0897.jpg" crc="386355246" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0897_2x.jpg" crc="482235264" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0615.jpg" crc="3911187873" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0615_2x.jpg" crc="3958099960" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0286.jpg" crc="4005369293" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0286_2x.jpg" crc="3997369156" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0414.jpg" crc="185597732" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0414_2x.jpg" crc="311212995" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1023.jpg" crc="207795777" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1023_2x.jpg" crc="4059851493" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0112.jpg" crc="191871196" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0112_2x.jpg" crc="3819768307" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="dsc01725-2.jpg" crc="3818796453" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="dsc01725-2_2x.jpg" crc="3876957090" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="u7704-4.png" crc="3937592510" ref="race-lamp"/>
-    <file name="u7704-4_2x.png" crc="3939173376" ref="race-lamp"/>
-    <file name="race text.png" crc="4276402035" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="race text_2x.png" crc="373491393" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="lampeskjerm pels pels-crop-u9014.png" crc="3877647717" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="lampeskjerm pels pels-crop-u9014_2x.png" crc="3941636448" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="lampeskjerm pels pels-u8944.png" crc="82246777" ref="race-lamp"/>
-    <file name="lampeskjerm pels pels-u8944_2x.png" crc="77784662" ref="race-lamp"/>
-    <file name="u7809-4.png" crc="9248922" ref="sit"/>
-    <file name="u7809-4_2x.png" crc="435578709" ref="sit"/>
-    <file name="sit text.png" crc="4134234925" seo="true" ref="sit">
-      <caption webpage="sit" alt=""/>
-    </file>
-    <file name="sit text_2x.png" crc="407292337" seo="true" ref="sit">
-      <caption webpage="sit" alt=""/>
-    </file>
-    <file name="museum legs 3.jpg" crc="333422748" seo="true" ref="sit">
-      <caption webpage="sit" alt=""/>
-    </file>
-    <file name="museum legs 3_2x.jpg" crc="513725009" seo="true" ref="sit">
-      <caption webpage="sit" alt=""/>
-    </file>
-    <file name="u7984-4.png" crc="189599558" ref="about"/>
-    <file name="u7984-4_2x.png" crc="4026748252" ref="about"/>
-    <file name="profilbilde-kopi.jpg" crc="4183763410" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="profilbilde-kopi_2x.jpg" crc="25126155" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="jonas text.png" crc="464247609" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="jonas text_2x.png" crc="4254935442" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="u8381-4.png" crc="133917086" ref="approach"/>
-    <file name="u8381-4_2x.png" crc="440487347" ref="approach"/>
-    <file name="u13258-4.png" crc="197985155" ref="index"/>
-    <file name="u13258-4_2x.png" crc="526871595" ref="index"/>
-    <file name="u13321-8.png" crc="4259416584" ref="index"/>
-    <file name="u13321-8_2x.png" crc="4029866964" ref="index"/>
-    <file name="u13367-8.png" crc="493658377" ref="index"/>
-    <file name="u13367-8_2x.png" crc="103202435" ref="index"/>
-    <file name="stauper daybed photoshop button 2400x3600-u7511-fr.jpg" crc="3960546859" ref="index"/>
-    <file name="stauper daybed photoshop button 2400x3600-u7511-fr_2x.jpg" crc="3933476901" ref="index"/>
-    <file name="stauper daybed photoshop button 2400x3600-u7511-r-fr.jpg" crc="461423106" ref="index"/>
-    <file name="stauper daybed photoshop button 2400x3600-u7511-r-fr_2x.jpg" crc="4208699780" ref="index"/>
-    <file name="pels pels barbershop photoshop button 2400x1600-u4798-fr.jpg" crc="44801143" ref="index"/>
-    <file name="pels pels barbershop photoshop button 2400x1600-u4798-fr_2x.jpg" crc="4265281336" ref="index"/>
-    <file name="pels pels barbershop photoshop button 2400x1600-u4798-r-fr.jpg" crc="378884099" ref="index"/>
-    <file name="pels pels barbershop photoshop button 2400x1600-u4798-r-fr_2x.jpg" crc="478856189" ref="index"/>
-    <file name="blupp photoshop button 2400x3600-u7489-fr.jpg" crc="40533667" ref="index"/>
-    <file name="blupp photoshop button 2400x3600-u7489-fr_2x.jpg" crc="4125266547" ref="index"/>
-    <file name="blupp photoshop button 2400x3600-u7489-r-fr.jpg" crc="225560584" ref="index"/>
-    <file name="blupp photoshop button 2400x3600-u7489-r-fr_2x.jpg" crc="3774000113" ref="index"/>
-    <file name="skate decks photoshop button 3000x2000-u5042-fr.jpg" crc="270614942" ref="index"/>
-    <file name="skate decks photoshop button 3000x2000-u5042-fr_2x.jpg" crc="289935008" ref="index"/>
-    <file name="skate decks photoshop button 3000x2000-u5042-r-fr.jpg" crc="4202335695" ref="index"/>
-    <file name="skate decks photoshop button 3000x2000-u5042-r-fr_2x.jpg" crc="392410629" ref="index"/>
-    <file name="sit 2015 photoshop button 4800x3200-u4894-fr.png" crc="144509848" ref="index"/>
-    <file name="sit 2015 photoshop button 4800x3200-u4894-fr_2x.png" crc="307485306" ref="index"/>
-    <file name="sit 2015 photoshop button 4800x3200-u4894-r-fr.jpg" crc="158642082" ref="index"/>
-    <file name="sit 2015 photoshop button 4800x3200-u4894-r-fr_2x.jpg" crc="138963887" ref="index"/>
-    <file name="race lamp photoshop button 2400x1600-u4776-fr.jpg" crc="4066948933" ref="index"/>
-    <file name="race lamp photoshop button 2400x1600-u4776-fr_2x.jpg" crc="4203912038" ref="index"/>
-    <file name="race lamp photoshop button 2400x1600-u4776-r-fr.jpg" crc="196341760" ref="index"/>
-    <file name="race lamp photoshop button 2400x1600-u4776-r-fr_2x.jpg" crc="467673836" ref="index"/>
-    <file name="blupp beige 2350x525.jpg" crc="210809781" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 2350x525_2x.jpg" crc="469895335" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20557350x526.jpg" crc="3913255900" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20557350x526_2x.jpg" crc="399486353" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20538350x526.jpg" crc="4278296753" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20161129-guttelars-20538350x526_2x.jpg" crc="4210746063" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 1350x526.jpg" crc="3932589818" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 1350x526_2x.jpg" crc="477559549" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 4359x525.jpg" crc="227378530" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 4359x525_2x.jpg" crc="499322548" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 3350x526.jpg" crc="3793023718" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 3350x526_2x.jpg" crc="4288670365" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 1350x526.jpg" crc="3942586571" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 1350x526_2x.jpg" crc="29971793" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 3-crop-u36802.jpg" crc="387705481" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp beige 3-crop-u3680_2x2.jpg" crc="3920306407" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="20180609-stauper_1120350x525.jpg" crc="4102810818" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1120350x525_2x.jpg" crc="4114700971" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="_dsc9384350x525.jpg" crc="302457105" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="_dsc9384350x525_2x.jpg" crc="437537799" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0382350x525.jpg" crc="12509129" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0382350x525_2x.jpg" crc="3837577808" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0897350x525.jpg" crc="4251639255" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0897350x525_2x.jpg" crc="128290351" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0615350x525.jpg" crc="384241209" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0615350x525_2x.jpg" crc="3910336942" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0286350x525.jpg" crc="4192939194" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0286350x525_2x.jpg" crc="482687341" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0414350x525.jpg" crc="132023809" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0414350x525_2x.jpg" crc="4044905467" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1023350x525.jpg" crc="358768800" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_1023350x525_2x.jpg" crc="3803215770" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0112350x525.jpg" crc="119482366" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="20180609-stauper_0112350x525_2x.jpg" crc="367429374" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="dsc01725-2350x526.jpg" crc="3976254261" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="dsc01725-2350x526_2x.jpg" crc="200724412" seo="true" ref="stauper">
-      <caption webpage="stauper" alt=""/>
-    </file>
-    <file name="lampeskjerm pels pels-crop-u90142.png" crc="4053094840" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="lampeskjerm pels pels-crop-u9014_2x2.png" crc="3993489308" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="lampeskjerm pels pels-u89442.png" crc="4192947183" ref="race-lamp"/>
-    <file name="lampeskjerm pels pels-u8944_2x2.png" crc="4289851819" ref="race-lamp"/>
-    <file name="bild 1350x526.jpg" crc="238154384" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 1350x526_2x.jpg" crc="4120641096" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 4350x526.jpg" crc="412374018" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 4350x526_2x.jpg" crc="402471599" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 6350x526.jpg" crc="3929779716" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 6350x526_2x.jpg" crc="4243146877" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 9350x526.jpg" crc="4098900551" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="bild 9350x526_2x.jpg" crc="492787648" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="china 2350x526.jpg" crc="271769479" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="china 2350x526_2x.jpg" crc="118812473" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="u3949-4.png" crc="3951239730" ref="skate"/>
-    <file name="u3949-4_2x.png" crc="260256718" ref="skate"/>
-    <file name="skate text.png" crc="4146501123" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate text_2x.png" crc="3896240461" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u3947.jpg" crc="4059481998" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u3947_2x.jpg" crc="4167464838" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u3946.jpg" crc="3851051599" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u3946_2x.jpg" crc="4137758330" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 2350x580.jpg" crc="78242771" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 2350x580_2x.jpg" crc="4216835651" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 8350x525.jpg" crc="4088128292" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 8350x525_2x.jpg" crc="3839225769" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 13351x525.jpg" crc="3885525822" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 13351x525_2x.jpg" crc="4070683700" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 1350x526.jpg" crc="4034094053" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 1350x526_2x.jpg" crc="378514953" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u39472.jpg" crc="4162313385" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u3947_2x2.jpg" crc="3855583805" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u39462.jpg" crc="158002334" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 9-crop-u3946_2x2.jpg" crc="4072381054" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 8.jpg" crc="4005826778" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 8_2x.jpg" crc="108754023" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 1.jpg" crc="4287002317" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 1_2x.jpg" crc="348250657" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-429 copy350x526.jpg" crc="364041414" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-429 copy350x526_2x.jpg" crc="347848796" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-202 copy375x525.jpg" crc="3891010790" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-202 copy375x525_2x.jpg" crc="3837493334" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-387 copy350x526.jpg" crc="7864159" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-387 copy350x526_2x.jpg" crc="51324363" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-408 copy350x526.jpg" crc="4243689428" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-408 copy350x526_2x.jpg" crc="44014726" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="hylletegning-crop-u9087.jpg" crc="4053603827" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="hylletegning-crop-u9087_2x.jpg" crc="29640497" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-354 copy350x526.jpg" crc="362090585" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-354 copy350x526_2x.jpg" crc="4109975560" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-208 copy350x526.jpg" crc="294485104" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-208 copy350x526_2x.jpg" crc="3869897295" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-328 copy350x526.jpg" crc="3800558021" seo="true" ref="pelspels">
-      <caption webpage="race-lamp" alt=""/>
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-328 copy350x526_2x.jpg" crc="4041500161" seo="true" ref="pelspels">
-      <caption webpage="race-lamp" alt=""/>
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-443 copy376x525.jpg" crc="4137559789" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-443 copy376x525_2x.jpg" crc="94205467" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-310 copy350x526.jpg" crc="358107277" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-310 copy350x526_2x.jpg" crc="172561113" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_-129 copy350x526.jpg" crc="4167503947" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_-129 copy350x526_2x.jpg" crc="4167264439" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-218 copy350x526.jpg" crc="3845959557" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-218 copy350x526_2x.jpg" crc="524168650" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-264 copy350x526.jpg" crc="122736752" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-264 copy350x526_2x.jpg" crc="4150887683" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-195 copy350x526.jpg" crc="3831100962" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-195 copy350x526_2x.jpg" crc="3860667152" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-303 copy350x526.jpg" crc="3874011389" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-303 copy350x526_2x.jpg" crc="4168938052" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-307 copy350x526.jpg" crc="444548716" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-307 copy350x526_2x.jpg" crc="113388802" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-206 copy350x526.jpg" crc="3963461503" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-206 copy350x526_2x.jpg" crc="4233169600" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-398 copy350x526.jpg" crc="383791797" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-398 copy350x526_2x.jpg" crc="3842729569" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-202 copy-crop-u3577.jpg" crc="3758638482" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-202 copy-crop-u3577_2x.jpg" crc="272554633" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="hylletegning-crop-u90872.jpg" crc="4012520852" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="hylletegning-crop-u9087_2x2.jpg" crc="4231974710" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-443 copy-crop-u5551.jpg" crc="4162929575" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-443 copy-crop-u5551_2x.jpg" crc="4256422110" seo="true" ref="pelspels">
-      <caption webpage="pelspels" alt=""/>
-    </file>
-    <file name="blupp sort 4-crop-u3685.jpg" crc="531858371" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="blupp sort 4-crop-u3685_2x.jpg" crc="4028926212" seo="true" ref="blupp">
-      <caption webpage="blupp" alt=""/>
-    </file>
-    <file name="skate decks 2-crop-u3944.jpg" crc="62917180" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 2-crop-u3944_2x.jpg" crc="2586593" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 13-crop-u3936.jpg" crc="324907797" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="skate decks 13-crop-u3936_2x.jpg" crc="3929591083" seo="true" ref="skate">
-      <caption webpage="skate" alt=""/>
-    </file>
-    <file name="u13491-4.png" crc="3875189569" ref="index"/>
-    <file name="u13491-4_2x.png" crc="367816240" ref="index"/>
-    <file name="u13690-4.png" crc="267413562" ref="pelspels"/>
-    <file name="u13690-4_2x.png" crc="130414403" ref="pelspels"/>
-    <file name="u13923-4.png" crc="4136115717" ref="blupp"/>
-    <file name="u13923-4_2x.png" crc="297142320" ref="blupp"/>
-    <file name="u13835-4.png" crc="253125624" ref="stauper"/>
-    <file name="u13835-4_2x.png" crc="403017536" ref="stauper"/>
-    <file name="u14045-4.png" crc="469188719" ref="skate"/>
-    <file name="u14045-4_2x.png" crc="4180251780" ref="skate"/>
-    <file name="u15921-4.png" crc="257244993" ref="index"/>
-    <file name="u15921-4_2x.png" crc="179171898" ref="index"/>
-    <file name="u15967-4.png" crc="368227986" ref="gallery"/>
-    <file name="u15967-4_2x.png" crc="530835773" ref="gallery"/>
-    <file name="u14132-4.png" crc="4224970376" ref="race-lamp"/>
-    <file name="u14132-4_2x.png" crc="357282769" ref="race-lamp"/>
-    <file name="museum legs 3358x525.jpg" crc="4155484873" seo="true" ref="sit">
-      <caption webpage="sit" alt=""/>
-    </file>
-    <file name="museum legs 3358x525_2x.jpg" crc="185491825" seo="true" ref="sit">
-      <caption webpage="sit" alt=""/>
-    </file>
-    <file name="u15961-4.png" crc="494181011" ref="sit"/>
-    <file name="u15961-4_2x.png" crc="3889319029" ref="sit"/>
-    <file name="20180128-pelspels_2-328 copy350x5262.jpg" crc="3800558021" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-328 copy350x526_2x2.jpg" crc="4041500161" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-328 copy2.jpg" crc="378203799" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="20180128-pelspels_2-328 copy_2x2.jpg" crc="225472807" seo="true" ref="race-lamp">
-      <caption webpage="race-lamp" alt=""/>
-    </file>
-    <file name="profilbilde-kopi350x526.jpg" crc="4272553009" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="u7984-42.png" crc="90356406" ref="about"/>
-    <file name="u7984-4_2x2.png" crc="3773756031" ref="about"/>
-    <file name="profilbilde-kopi350x526_2x.jpg" crc="3983450835" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
+    <file name="mood space 6_2x.jpg" crc="4156065582" seo="true" ref="work2">
+      <caption webpage="work2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3956269862" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="gallery.html" crc="286747292" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="pelspels.html" crc="160077177" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="blupp.html" crc="135646887" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="stauper.html" crc="4186411413" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="race-lamp.html" crc="74285628" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="sit.html" crc="301177920" seo="true" mt="1545866294938" redirect="true"/>
-  <file name="about.html" crc="257464969" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="approach.html" crc="480556573" seo="true" mt="1545832698637" redirect="true"/>
-  <file name="skate.html" crc="4145622558" seo="true" mt="1545832698637" redirect="true"/>
+  <file name="index.html" crc="72578194" seo="true" mt="1574376801833" redirect="true"/>
+  <file name="personal.html" crc="3927356443" seo="true" mt="1574376556849" redirect="true"/>
+  <file name="work1.html" crc="4212755530" seo="true" mt="1574368856732" redirect="true"/>
+  <file name="work2.html" crc="159873176" seo="true" mt="1574376105583" redirect="true"/>
 </manifest>
