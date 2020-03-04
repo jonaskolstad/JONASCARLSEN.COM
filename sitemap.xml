@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a-crop-u367.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a-crop-u367_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a.jpg</image:loc>
     </image:image>
     <image:image>
@@ -66,10 +60,46 @@
       <image:loc>http://www.jonascarlsen.com/images/r1-06663-00xa12-08-2019-02-06-08-50768894-0200_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-05833-034a134x199.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033300x448.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-05833-034a134x199_2x.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033300x448_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a-crop-u367.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a-crop-u367_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-01311-035a167x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-01311-035a167x249_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-05833-034a150x224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-05833-034a150x224_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a100x150.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a100x150_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0004167x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0004167x249_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-06662-001712-08-2019-02-05-23-50723652-0200134x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-06662-001712-08-2019-02-05-23-50723652-0200134x199_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-06663-00xa12-08-2019-02-06-08-50768894-0200100x150.jpg</image:loc>
@@ -78,40 +108,10 @@
       <image:loc>http://www.jonascarlsen.com/images/r1-06663-00xa12-08-2019-02-06-08-50768894-0200100x150_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-04410-0016-crop-u14142.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a134x199.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-04410-0016-crop-u1414_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033300x448.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033300x448_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-01311-035a251x373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-01311-035a251x373_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0004250x373.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0004250x373_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-06662-001712-08-2019-02-05-23-50723652-0200150x224.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-06662-001712-08-2019-02-05-23-50723652-0200150x224_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a150x224.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a150x224_2x.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a134x199_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033100x150.jpg</image:loc>
@@ -120,10 +120,10 @@
       <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033100x150_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0014250x373.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0014167x249.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0014250x373_2x.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-04409-0014167x249_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-04409-0008100x150.jpg</image:loc>
@@ -132,10 +132,10 @@
       <image:loc>http://www.jonascarlsen.com/images/r1-04409-0008100x150_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a100x150.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-04410-0016-crop-u14142.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a100x150_2x.jpg</image:loc>
+      <image:loc>http://www.jonascarlsen.com/images/r1-04410-0016-crop-u1414_2x2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -318,18 +318,6 @@
       <image:loc>http://www.jonascarlsen.com/images/r1-06662-001712-08-2019-02-05-23-50723652-0200_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a134x199.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a134x199_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033117x175.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-09180-0033117x175_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-05832-0017-crop-u4642.jpg</image:loc>
     </image:image>
     <image:image>
@@ -348,28 +336,10 @@
       <image:loc>http://www.jonascarlsen.com/images/r1-05833-024a-crop-u774_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/lovers%20in%20seilduksgata228x342.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/lovers%20in%20seilduksgata228x342_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-03109-0016229x342.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-03109-0016229x342_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-03109-0025200x299.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-03109-0025200x299_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-03110-0002229x342.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.jonascarlsen.com/images/r1-03110-0002229x342_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-03110-0019134x199.jpg</image:loc>
@@ -490,6 +460,24 @@
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-03439-014a02-07-2019-12-06-14-43574332-0200229x342_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/lovers%20in%20seilduksgata250x376.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/lovers%20in%20seilduksgata250x376_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-03109-0016250x373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-03109-0016250x373_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-03110-0002250x373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-03110-0002250x373_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
