@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583320472274">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583320794108">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3759358756" ref="index"/>
+    <file name="index.css" crc="358259165" ref="index"/>
     <file name="work1.css" crc="3861960094" ref="work1"/>
     <file name="personal.css" crc="536434997" ref="personal"/>
     <file name="work2.css" crc="3947765940" ref="work2"/>
     <file name="info.css" crc="3885430930" ref="info"/>
-    <file name="nomq_index.css" crc="167270780" ref="index"/>
+    <file name="nomq_index.css" crc="4141171397" ref="index"/>
     <file name="nomq_work2.css" crc="444419411" ref="work2"/>
     <file name="nomq_personal.css" crc="4044286072" ref="personal"/>
   </folder>
@@ -66,10 +66,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="personal" alt=""/>
     </file>
-    <file name="r1-05833-024a-crop-u367.jpg" crc="29399900" seo="true" ref="index">
+    <file name="r1-05833-024a-crop-u367.jpg" crc="4145400527" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-05833-024a-crop-u367_2x.jpg" crc="3986358404" seo="true" ref="index">
+    <file name="r1-05833-024a-crop-u367_2x.jpg" crc="515679753" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="r1-09181-005a.jpg" crc="520528559" seo="true" ref="index:personal">
@@ -441,12 +441,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:personal:work2"/>
-    <file name="r1-05833-024a300x448.jpg" crc="14012650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="r1-05833-024a300x448_2x.jpg" crc="347061201" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="r1-09180-0033300x448.jpg" crc="4058319351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -723,8 +717,14 @@
     <file name="mood space 6228x343_2x.jpg" crc="4007528391" seo="true" ref="work2">
       <caption webpage="work2" alt=""/>
     </file>
+    <file name="r1-05833-024a-crop-u3672.jpg" crc="29399900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-05833-024a-crop-u367_2x2.jpg" crc="3986358404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="62254241" seo="true" mt="1583320198085" redirect="true"/>
+  <file name="index.html" crc="3868952845" seo="true" mt="1583320779421" redirect="true"/>
   <file name="personal.html" crc="3832835706" seo="true" mt="1583320008105" redirect="true"/>
   <file name="work1.html" crc="292849289" seo="true" mt="1583317248118" redirect="true"/>
   <file name="work2.html" crc="191277684" seo="true" mt="1583319851187" redirect="true"/>
