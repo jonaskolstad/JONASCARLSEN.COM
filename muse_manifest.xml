@@ -1,13 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583346036809">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583353196227">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3861804578" ref="index"/>
+    <file name="index.css" crc="86288686" ref="index"/>
     <file name="work1.css" crc="3861960094" ref="work1"/>
     <file name="personal.css" crc="46606098" ref="personal"/>
     <file name="work2.css" crc="3947765940" ref="work2"/>
     <file name="info.css" crc="3885430930" ref="info"/>
     <file name="nomq_work2.css" crc="444419411" ref="work2"/>
     <file name="nomq_personal.css" crc="3883910757" ref="personal"/>
+    <file name="nomq_index.css" crc="3885895050" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="2018.01.28-pelspels_2-429-copy.tif" crc="4264111338" seo="true" mt="1520202607000"/>
@@ -22,7 +23,7 @@
     <file name="museconfig.js" crc="4153641093" ref="index:personal:work1:work2:info"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:personal:work1:work2:info"/>
     <file name="require.js" crc="4157109226" ref="index:personal:work1:work2:info"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="personal:work2"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="personal:work2:index"/>
   </folder>
   <folder name="images">
     <file name="20180128-pelspels_2-429 copy.jpg" crc="333779127" seo="true" ref="work1">
@@ -399,7 +400,7 @@
     <file name="r1-06663-00xa12-08-2019-02-06-08-50768894-0200_2x.jpg" crc="4217379350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="personal:work2"/>
+    <file name="blank.gif" crc="4208392903" ref="personal:work2:index"/>
     <file name="r1-09180-0033300x448.jpg" crc="4058319351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -634,14 +635,80 @@
     <file name="r1-03110-0002250x373_2x.jpg" crc="515804947" seo="true" ref="personal">
       <caption webpage="personal" alt=""/>
     </file>
-    <file name="r1-05833-024a300x448.jpg" crc="14012650" seo="true" ref="index">
+    <file name="r1-05833-024a-crop-u367.jpg" crc="4145400527" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-05833-024a300x448_2x.jpg" crc="347061201" seo="true" ref="index">
+    <file name="r1-05833-024a-crop-u367_2x.jpg" crc="515679753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-01311-035a336x500.jpg" crc="4177368707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-01311-035a336x500_2x.jpg" crc="4263886883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-05833-034a335x500.jpg" crc="3969810948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-05833-034a335x500_2x.jpg" crc="483757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-05833-024a-crop-u3672.jpg" crc="183109101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-05833-024a-crop-u367_2x2.jpg" crc="531266436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-09181-005a235x351.jpg" crc="407661199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-09181-005a235x351_2x.jpg" crc="3947212926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-06662-001712-08-2019-02-05-23-50723652-0200335x500.jpg" crc="56818697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-06662-001712-08-2019-02-05-23-50723652-0200335x500_2x.jpg" crc="4038882175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-06663-00xa12-08-2019-02-06-08-50768894-0200118x175.jpg" crc="3907830177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-06663-00xa12-08-2019-02-06-08-50768894-0200118x175_2x.jpg" crc="507559687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-09180-0033118x175.jpg" crc="266734954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-09180-0033118x175_2x.jpg" crc="3968598103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04410-0016-crop-u14142.jpg" crc="3793413142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04410-0016-crop-u1414_2x2.jpg" crc="3777980234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04409-0008118x175.jpg" crc="4212688047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04409-0008118x175_2x.jpg" crc="123816791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04409-0004196x292.jpg" crc="502449554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04409-0004196x292_2x.jpg" crc="3963071113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04409-0014196x292.jpg" crc="264849589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r1-04409-0014196x292_2x.jpg" crc="197837673" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4221331846" seo="true" mt="1583345930109" redirect="true"/>
+  <file name="index.html" crc="335755005" seo="true" mt="1583352972391" redirect="true"/>
   <file name="personal.html" crc="44887329" seo="true" mt="1583344427573" redirect="true"/>
   <file name="work1.html" crc="292849289" seo="true" mt="1583317248118" redirect="true"/>
   <file name="work2.html" crc="191277684" seo="true" mt="1583319851187" redirect="true"/>
