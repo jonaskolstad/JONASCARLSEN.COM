@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583320794108">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583321243981">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="358259165" ref="index"/>
+    <file name="index.css" crc="490963778" ref="index"/>
     <file name="work1.css" crc="3861960094" ref="work1"/>
     <file name="personal.css" crc="536434997" ref="personal"/>
     <file name="work2.css" crc="3947765940" ref="work2"/>
@@ -724,7 +724,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3868952845" seo="true" mt="1583320779421" redirect="true"/>
+  <file name="index.html" crc="4237163350" seo="true" mt="1583321223585" redirect="true"/>
   <file name="personal.html" crc="3832835706" seo="true" mt="1583320008105" redirect="true"/>
   <file name="work1.html" crc="292849289" seo="true" mt="1583317248118" redirect="true"/>
   <file name="work2.html" crc="191277684" seo="true" mt="1583319851187" redirect="true"/>
