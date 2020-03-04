@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1582065125480">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583315409804">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="56530349" ref="index"/>
-    <file name="work1.css" crc="3861960094" ref="work1"/>
-    <file name="personal.css" crc="3853049375" ref="personal"/>
-    <file name="work2.css" crc="12416575" ref="work2"/>
+    <file name="index.css" crc="4281832880" ref="index"/>
+    <file name="work1.css" crc="3831508560" ref="work1"/>
+    <file name="personal.css" crc="2472818" ref="personal"/>
+    <file name="work2.css" crc="4127563521" ref="work2"/>
   </folder>
   <folder name="assets">
     <file name="2018.01.28-pelspels_2-429-copy.tif" crc="4264111338" seo="true" mt="1520202607000"/>
@@ -371,7 +371,7 @@
     <file name="skate decks 2_2x.jpg" crc="4291351507" seo="true" ref="work1">
       <caption webpage="work1" alt=""/>
     </file>
-    <file name="img_4617-crop-u1316.jpg" crc="4161511696" seo="true" ref="work1">
+    <file name="img_4617-crop-u1316.jpg" crc="7064658" seo="true" ref="work1">
       <caption webpage="work1" alt=""/>
     </file>
     <file name="img_4617-crop-u1316_2x.jpg" crc="274069220" seo="true" ref="work1">
@@ -402,8 +402,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="353828403" seo="true" mt="1582034048702" redirect="true"/>
-  <file name="personal.html" crc="187741888" seo="true" mt="1580999796802" redirect="true"/>
-  <file name="work1.html" crc="165106213" seo="true" mt="1579786753744" redirect="true"/>
-  <file name="work2.html" crc="4142765172" seo="true" mt="1579794211697" redirect="true"/>
+  <file name="index.html" crc="151372043" seo="true" mt="1583315271690" redirect="true"/>
+  <file name="personal.html" crc="3987367179" seo="true" mt="1583315292757" redirect="true"/>
+  <file name="work1.html" crc="182069965" seo="true" mt="1583315335733" redirect="true"/>
+  <file name="work2.html" crc="4002635423" seo="true" mt="1583315323029" redirect="true"/>
 </manifest>
