@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583321565270">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1583321933158">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="153995565" ref="index"/>
+    <file name="index.css" crc="297130077" ref="index"/>
     <file name="work1.css" crc="3861960094" ref="work1"/>
     <file name="personal.css" crc="536434997" ref="personal"/>
     <file name="work2.css" crc="3947765940" ref="work2"/>
     <file name="info.css" crc="3885430930" ref="info"/>
-    <file name="nomq_index.css" crc="414638839" ref="index"/>
+    <file name="nomq_index.css" crc="412888811" ref="index"/>
     <file name="nomq_work2.css" crc="444419411" ref="work2"/>
     <file name="nomq_personal.css" crc="4044286072" ref="personal"/>
   </folder>
@@ -724,7 +724,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="128812956" seo="true" mt="1583321552205" redirect="true"/>
+  <file name="index.html" crc="399897478" seo="true" mt="1583321919549" redirect="true"/>
   <file name="personal.html" crc="3832835706" seo="true" mt="1583320008105" redirect="true"/>
   <file name="work1.html" crc="292849289" seo="true" mt="1583317248118" redirect="true"/>
   <file name="work2.html" crc="191277684" seo="true" mt="1583319851187" redirect="true"/>
