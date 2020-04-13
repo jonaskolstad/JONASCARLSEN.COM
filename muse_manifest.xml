@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586791473538">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586791692156">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="work1.css" crc="253789435" ref="work1"/>
@@ -7,8 +7,8 @@
     <file name="nomq_work3.css" crc="45647846" ref="work3"/>
     <file name="work5.css" crc="270617297" ref="work5"/>
     <file name="nomq_work5.css" crc="251209296" ref="work5"/>
-    <file name="work2.css" crc="434481843" ref="work2"/>
-    <file name="nomq_work2.css" crc="385311374" ref="work2"/>
+    <file name="work2.css" crc="3931172496" ref="work2"/>
+    <file name="nomq_work2.css" crc="366198726" ref="work2"/>
     <file name="info.css" crc="3885430930" ref="info"/>
     <file name="personal.css" crc="4096348378" ref="personal"/>
     <file name="nomq_personal.css" crc="252447652" ref="personal"/>
@@ -33,7 +33,7 @@
     <file name="r1-01311-035a403x600_2x.jpg" crc="424593550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-03439-015a02-07-2019-12_06_15-43575337-0200.jpg" crc="223210573" seo="true" ref="index:work2">
+    <file name="r1-03439-015a02-07-2019-12_06_15-43575337-0200.jpg" crc="3879100777" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
       <caption webpage="work2" alt=""/>
     </file>
@@ -161,11 +161,13 @@
     <file name="r1-04409-0014_2x.jpg" crc="3950003241" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-09181-005a402x600.jpg" crc="449100163" seo="true" ref="index">
+    <file name="r1-09181-005a402x600.jpg" crc="4111703516" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="r1-09181-005a402x600_2x.jpg" crc="248103656" seo="true" ref="index">
+    <file name="r1-09181-005a402x600_2x.jpg" crc="4096420357" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
+      <caption webpage="work2" alt=""/>
     </file>
     <file name="r1-04409-0004402x600.jpg" crc="61472729" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -317,11 +319,13 @@
     <file name="r1-06663-00xa12-08-2019-02_06_08-50768894-0200300x448_2x.jpg" crc="3960205734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-09181-005a300x448.jpg" crc="171167465" seo="true" ref="index">
+    <file name="r1-09181-005a300x448.jpg" crc="76121755" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
+      <caption webpage="work2" alt=""/>
     </file>
-    <file name="r1-09181-005a300x448_2x.jpg" crc="4199686833" seo="true" ref="index">
+    <file name="r1-09181-005a300x448_2x.jpg" crc="4274839277" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
+      <caption webpage="work2" alt=""/>
     </file>
     <file name="r1-05833-024a01-08-2019-01-41-21-49281958-0200300x448.jpg" crc="4024781731" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -2068,7 +2072,7 @@
   <file name="index.html" crc="4013629899" seo="true" mt="1586783196560" redirect="true"/>
   <file name="personal.html" crc="4032795427" seo="true" mt="1586783038413" redirect="true"/>
   <file name="work1.html" crc="3851505853" seo="true" mt="1586780412146" redirect="true"/>
-  <file name="work2.html" crc="3956746752" seo="true" mt="1586782994468" redirect="true"/>
+  <file name="work2.html" crc="161473860" seo="true" mt="1586791642349" redirect="true"/>
   <file name="info.html" crc="23713523" seo="true" mt="1583410771069" redirect="false"/>
   <file name="work3.html" crc="408196315" seo="true" mt="1586781188403" redirect="true"/>
   <file name="work4.html" crc="443504714" seo="true" mt="1586783833890" redirect="true"/>
