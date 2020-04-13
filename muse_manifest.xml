@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586791692156">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586792494518">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="work1.css" crc="253789435" ref="work1"/>
     <file name="nomq_work1.css" crc="3998246460" ref="work1"/>
-    <file name="work3.css" crc="223165585" ref="work3"/>
-    <file name="nomq_work3.css" crc="45647846" ref="work3"/>
+    <file name="work3.css" crc="329982832" ref="work3"/>
+    <file name="nomq_work3.css" crc="3977115639" ref="work3"/>
     <file name="work5.css" crc="270617297" ref="work5"/>
     <file name="nomq_work5.css" crc="251209296" ref="work5"/>
     <file name="work2.css" crc="3931172496" ref="work2"/>
@@ -33,7 +33,7 @@
     <file name="r1-01311-035a403x600_2x.jpg" crc="424593550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-03439-015a02-07-2019-12_06_15-43575337-0200.jpg" crc="3879100777" seo="true" ref="index:work2">
+    <file name="r1-03439-015a02-07-2019-12_06_15-43575337-0200.jpg" crc="223210573" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
       <caption webpage="work2" alt=""/>
     </file>
@@ -161,11 +161,11 @@
     <file name="r1-04409-0014_2x.jpg" crc="3950003241" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-09181-005a402x600.jpg" crc="4111703516" seo="true" ref="index:work2">
+    <file name="r1-09181-005a402x600.jpg" crc="449100163" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
       <caption webpage="work2" alt=""/>
     </file>
-    <file name="r1-09181-005a402x600_2x.jpg" crc="4096420357" seo="true" ref="index:work2">
+    <file name="r1-09181-005a402x600_2x.jpg" crc="248103656" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
       <caption webpage="work2" alt=""/>
     </file>
@@ -319,11 +319,11 @@
     <file name="r1-06663-00xa12-08-2019-02_06_08-50768894-0200300x448_2x.jpg" crc="3960205734" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="r1-09181-005a300x448.jpg" crc="76121755" seo="true" ref="index:work2">
+    <file name="r1-09181-005a300x448.jpg" crc="171167465" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
       <caption webpage="work2" alt=""/>
     </file>
-    <file name="r1-09181-005a300x448_2x.jpg" crc="4274839277" seo="true" ref="index:work2">
+    <file name="r1-09181-005a300x448_2x.jpg" crc="4199686833" seo="true" ref="index:work2">
       <caption webpage="index" alt=""/>
       <caption webpage="work2" alt=""/>
     </file>
@@ -1506,19 +1506,13 @@
     <file name="20180609-stauper_0897-crop-u6709_2x.jpg" crc="68171225" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="_dsc9495-crop-u7797.jpg" crc="4012377139" seo="true" ref="work3">
-      <caption webpage="work3" alt=""/>
-    </file>
-    <file name="_dsc9495-crop-u7797_2x.jpg" crc="3851467224" seo="true" ref="work3">
-      <caption webpage="work3" alt=""/>
-    </file>
     <file name="20180609-stauper_0382-crop-u6933.jpg" crc="4282115242" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_0382-crop-u6933_2x.jpg" crc="270561162" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1120-crop-u7735.jpg" crc="144680129" seo="true" ref="work3">
+    <file name="20180609-stauper_1120-crop-u7735.jpg" crc="492017230" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_1120-crop-u7735_2x.jpg" crc="32011750" seo="true" ref="work3">
@@ -1554,19 +1548,19 @@
     <file name="20180609-stauper_0414-crop-u7713_2x.jpg" crc="3888409946" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1510-crop-u8465.jpg" crc="455506510" seo="true" ref="work3">
+    <file name="20180609-stauper_1510-crop-u8465.jpg" crc="3868590056" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_1510-crop-u8465_2x.jpg" crc="3904101044" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_0615-crop-u8485.jpg" crc="4149501709" seo="true" ref="work3">
+    <file name="20180609-stauper_0615-crop-u8485.jpg" crc="4256141339" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_0615-crop-u8485_2x.jpg" crc="52058410" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_0255-crop-u7755.jpg" crc="4015488910" seo="true" ref="work3">
+    <file name="20180609-stauper_0255-crop-u7755.jpg" crc="196328604" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_0255-crop-u7755_2x.jpg" crc="43405453" seo="true" ref="work3">
@@ -1578,13 +1572,13 @@
     <file name="20180609-stauper_1487_2x.jpg" crc="4033218797" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1023-crop-u6432.jpg" crc="4115808309" seo="true" ref="work3">
+    <file name="20180609-stauper_1023-crop-u6432.jpg" crc="277708266" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1023-crop-u6432_2x.jpg" crc="4144195135" seo="true" ref="work3">
+    <file name="20180609-stauper_1023-crop-u6432_2x.jpg" crc="242973503" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1415-crop-u8517.jpg" crc="4199740740" seo="true" ref="work3">
+    <file name="20180609-stauper_1415-crop-u8517.jpg" crc="4003591835" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_1415-crop-u8517_2x.jpg" crc="3976589672" seo="true" ref="work3">
@@ -1614,12 +1608,6 @@
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_0382-crop-u6933_2x2.jpg" crc="386558925" seo="true" ref="work3">
-      <caption webpage="work3" alt=""/>
-    </file>
-    <file name="_dsc9495-crop-u77972.jpg" crc="55159390" seo="true" ref="work3">
-      <caption webpage="work3" alt=""/>
-    </file>
-    <file name="_dsc9495-crop-u7797_2x2.jpg" crc="3785356436" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_0382-crop-u6991.jpg" crc="4194475933" seo="true" ref="work3">
@@ -2068,13 +2056,31 @@
     <file name="skate decks 1-crop-u8640_2x2.jpg" crc="347100692" seo="true" ref="work5">
       <caption webpage="work5" alt=""/>
     </file>
+    <file name="_dsc9384-crop-u9303.jpg" crc="3981369146" seo="true" ref="work3">
+      <caption webpage="work3" alt=""/>
+    </file>
+    <file name="_dsc9384-crop-u9303_2x.jpg" crc="3814844571" seo="true" ref="work3">
+      <caption webpage="work3" alt=""/>
+    </file>
+    <file name="_dsc9384-crop-u93032.jpg" crc="3917130622" seo="true" ref="work3">
+      <caption webpage="work3" alt=""/>
+    </file>
+    <file name="_dsc9384-crop-u9303_2x2.jpg" crc="4278026854" seo="true" ref="work3">
+      <caption webpage="work3" alt=""/>
+    </file>
+    <file name="_dsc9384161x240.jpg" crc="199628995" seo="true" ref="work3">
+      <caption webpage="work3" alt=""/>
+    </file>
+    <file name="_dsc9384161x240_2x.jpg" crc="217712618" seo="true" ref="work3">
+      <caption webpage="work3" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4013629899" seo="true" mt="1586783196560" redirect="true"/>
+  <file name="index.html" crc="3858596494" seo="true" mt="1586792458531" redirect="true"/>
   <file name="personal.html" crc="4032795427" seo="true" mt="1586783038413" redirect="true"/>
   <file name="work1.html" crc="3851505853" seo="true" mt="1586780412146" redirect="true"/>
   <file name="work2.html" crc="161473860" seo="true" mt="1586791642349" redirect="true"/>
   <file name="info.html" crc="23713523" seo="true" mt="1583410771069" redirect="false"/>
-  <file name="work3.html" crc="408196315" seo="true" mt="1586781188403" redirect="true"/>
+  <file name="work3.html" crc="187392310" seo="true" mt="1586792481040" redirect="true"/>
   <file name="work4.html" crc="443504714" seo="true" mt="1586783833890" redirect="true"/>
   <file name="work5.html" crc="4047528679" seo="true" mt="1586791355059" redirect="true"/>
 </manifest>
