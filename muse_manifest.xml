@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586792494518">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586793157167">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="work1.css" crc="253789435" ref="work1"/>
     <file name="nomq_work1.css" crc="3998246460" ref="work1"/>
-    <file name="work3.css" crc="329982832" ref="work3"/>
-    <file name="nomq_work3.css" crc="3977115639" ref="work3"/>
+    <file name="work3.css" crc="4103973525" ref="work3"/>
+    <file name="nomq_work3.css" crc="459567270" ref="work3"/>
     <file name="work5.css" crc="270617297" ref="work5"/>
     <file name="nomq_work5.css" crc="251209296" ref="work5"/>
     <file name="work2.css" crc="3931172496" ref="work2"/>
@@ -1572,10 +1572,10 @@
     <file name="20180609-stauper_1487_2x.jpg" crc="4033218797" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1023-crop-u6432.jpg" crc="277708266" seo="true" ref="work3">
+    <file name="20180609-stauper_1023-crop-u6432.jpg" crc="4115808309" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="20180609-stauper_1023-crop-u6432_2x.jpg" crc="242973503" seo="true" ref="work3">
+    <file name="20180609-stauper_1023-crop-u6432_2x.jpg" crc="4144195135" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
     <file name="20180609-stauper_1415-crop-u8517.jpg" crc="4003591835" seo="true" ref="work3">
@@ -2056,22 +2056,22 @@
     <file name="skate decks 1-crop-u8640_2x2.jpg" crc="347100692" seo="true" ref="work5">
       <caption webpage="work5" alt=""/>
     </file>
-    <file name="_dsc9384-crop-u9303.jpg" crc="3981369146" seo="true" ref="work3">
+    <file name="stauper main-crop-u9345.jpg" crc="83947588" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="_dsc9384-crop-u9303_2x.jpg" crc="3814844571" seo="true" ref="work3">
+    <file name="stauper main-crop-u9345_2x.jpg" crc="309511504" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="_dsc9384-crop-u93032.jpg" crc="3917130622" seo="true" ref="work3">
+    <file name="stauper main-crop-u93452.jpg" crc="3973590428" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="_dsc9384-crop-u9303_2x2.jpg" crc="4278026854" seo="true" ref="work3">
+    <file name="stauper main-crop-u9345_2x2.jpg" crc="123493717" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="_dsc9384161x240.jpg" crc="199628995" seo="true" ref="work3">
+    <file name="stauper main161x240.jpg" crc="4239458257" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
-    <file name="_dsc9384161x240_2x.jpg" crc="217712618" seo="true" ref="work3">
+    <file name="stauper main161x240_2x.jpg" crc="4241364347" seo="true" ref="work3">
       <caption webpage="work3" alt=""/>
     </file>
   </folder>
@@ -2080,7 +2080,7 @@
   <file name="work1.html" crc="3851505853" seo="true" mt="1586780412146" redirect="true"/>
   <file name="work2.html" crc="161473860" seo="true" mt="1586791642349" redirect="true"/>
   <file name="info.html" crc="23713523" seo="true" mt="1583410771069" redirect="false"/>
-  <file name="work3.html" crc="187392310" seo="true" mt="1586792481040" redirect="true"/>
+  <file name="work3.html" crc="135124766" seo="true" mt="1586793140185" redirect="true"/>
   <file name="work4.html" crc="443504714" seo="true" mt="1586783833890" redirect="true"/>
   <file name="work5.html" crc="4047528679" seo="true" mt="1586791355059" redirect="true"/>
 </manifest>
