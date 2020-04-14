@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586881302571">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jonascarlsen.com" resolutions="1x,2x" timestamp="1586882485873">
   <folder name="assets">
     <file name="sl_vx.mp4" crc="367157629" seo="true" mt="1527095011000"/>
     <file name="katla.pdf" crc="490249893" seo="true" mt="1544011854000"/>
@@ -14,14 +14,14 @@
     <file name="nomq_work5.css" crc="3766383699" ref="work5"/>
     <file name="work2.css" crc="4075575070" ref="work2"/>
     <file name="nomq_work2.css" crc="243618717" ref="work2"/>
-    <file name="info.css" crc="4168687373" ref="info"/>
+    <file name="info.css" crc="3759184872" ref="info"/>
     <file name="personal.css" crc="362176159" ref="personal"/>
     <file name="nomq_personal.css" crc="198830851" ref="personal"/>
-    <file name="index.css" crc="478734006" ref="index"/>
-    <file name="nomq_index.css" crc="4092692782" ref="index"/>
+    <file name="index.css" crc="80646585" ref="index"/>
+    <file name="nomq_index.css" crc="523734114" ref="index"/>
     <file name="work4.css" crc="4099274711" ref="work4"/>
     <file name="nomq_work4.css" crc="452512817" ref="work4"/>
-    <file name="nomq_info.css" crc="212894349" ref="info"/>
+    <file name="nomq_info.css" crc="260051051" ref="info"/>
     <file name="cv.css" crc="3874330911" ref="cv"/>
     <file name="nomq_cv.css" crc="435734576" ref="cv"/>
     <file name="work6.css" crc="3875311580" ref="work6"/>
@@ -1872,11 +1872,11 @@
     <file name="u11358-42.png" crc="4057873303" ref="info"/>
     <file name="u11358-4_2x2.png" crc="425414913" ref="info"/>
   </folder>
-  <file name="index.html" crc="3936862523" seo="true" mt="1586881182962" redirect="true"/>
+  <file name="index.html" crc="409043890" seo="true" mt="1586882271339" redirect="true"/>
   <file name="personal.html" crc="4276060770" seo="true" mt="1586878115735" redirect="true"/>
   <file name="work1.html" crc="3851505853" seo="true" mt="1586780412146" redirect="true"/>
   <file name="work2.html" crc="4228110053" seo="true" mt="1586866331552" redirect="true"/>
-  <file name="info.html" crc="183381698" seo="true" mt="1586880966392" redirect="true"/>
+  <file name="info.html" crc="262543640" seo="true" mt="1586882358250" redirect="true"/>
   <file name="work3.html" crc="219479483" seo="true" mt="1586818124134" redirect="true"/>
   <file name="work4.html" crc="443504714" seo="true" mt="1586783833890" redirect="true"/>
   <file name="work5.html" crc="3999338439" seo="true" mt="1586818153498" redirect="true"/>
