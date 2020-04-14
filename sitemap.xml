@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>http://www.jonascarlsen.com/work2.html</loc>
-    <lastmod>2020-04-14</lastmod>
+    <lastmod>2020-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -370,6 +370,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-03439-015a02-07-2019-12_06_15-43575337-0200_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a300x448.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a300x448_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.jonascarlsen.com/images/r1-09181-005a.jpg</image:loc>
